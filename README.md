@@ -5,6 +5,6 @@
 - :student: Master's in Data Science
 
 
-✍️ [Check out my Medium articles about data science](https://medium.com/@aamir34234)
+✍️ [Check out my data science articles](https://medium.com/@aamir34234)
 
 [<img src="https://img.shields.io/badge/Medium-@aamir34234-black?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aamir34234)
